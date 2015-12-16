@@ -79,7 +79,7 @@ Getting started
       puts "required simplecov"
     end
     ```
-3. Run your tests, open up `coverage/index.html` in your browser and check out
+3. Run your tests, open up `<your project directory>/coverage/index.html` in your browser and check out
    what you've missed so far.
 4. Add the following to your `.gitignore` file to ensure that coverage results
    are not tracked by Git (optional):
